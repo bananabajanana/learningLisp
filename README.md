@@ -19,3 +19,15 @@ If this concept interests you, I highly recommend giving this language a go, eve
 Also, since almost no one knows how to program in this alien language, it gives even the most imbecile programmer who just gave it a go once great bragging rights, which is always good.
 
 _"Lisp [..] the most intelligent way to misuse a computer."_ ~ Edsger Dijkstra
+
+Programs List
+=============
+
+Numbers
+-------
+
+In this folder, you will find all programs that have something to do with numbers. Mostly calculations, approximations, and algorithmic solutions to mathematical riddles...
+
+[**Fibonacci Sequence**](https://github.com/bananabajanana/learningLisp/blob/main/Numbers/fibonacci-sequence.lisp) - Enter a number and have the program generate the Fibonacci sequece to that number.
+
+[**Prime Factorization**](https://github.com/bananabajanana/learningLisp/blob/main/Numbers/prime-factors.lisp) - Have the user enter a number and find all Prime Factors (if there are any) and display them.
