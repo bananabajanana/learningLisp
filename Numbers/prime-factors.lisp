@@ -1,16 +1,6 @@
 ;;;; A prime factorization calculator written in Lisp.
 ;;;; To run, compile the code into a repl and invoke
 ;;;; (prime-calc-repl)
-;;;;
-;;;; Lisp is an unconventional programming language
-;;;; almost unheard of these days... I heard about it
-;;;; not long ago, and decided to learn it because it
-;;;; has some really interesting ideas and concepts.
-;;;; I strongly recommend you to learn it too! The
-;;;; skills one can develop thanks to Lisp are
-;;;; unimanigable and unlike any other programming
-;;;; language out there. (Also, it's just fun to say
-;;;; you know Lisp...)
 
 ;;; This is the part that calculates the prime
 ;;; factors. First I made a helper function, that
