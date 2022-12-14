@@ -31,3 +31,10 @@ In this folder, you will find all programs that have something to do with number
 [**Fibonacci Sequence**](https://github.com/bananabajanana/learningLisp/blob/main/Numbers/fibonacci-sequence.lisp) - Enter a number and have the program generate the Fibonacci sequece to that number.
 
 [**Prime Factorization**](https://github.com/bananabajanana/learningLisp/blob/main/Numbers/prime-factors.lisp) - Have the user enter a number and find all Prime Factors (if there are any) and display them.
+
+Games
+-------
+
+In this folder, you will find all games (big or small) that i program with lisp. From naive and simple, to hopefully graphical marvels, if you're looking for lispy games, I'll have them here.
+
+[**Higher Lower**](https://github.com/bananabajanana/learningLisp/blob/main/Games/HigherLower.lisp) - The player chooses a number, and the computer tries to guess it. This computer is optimized with the perfect strategy! (not really that impressive, it's just binary search...)
