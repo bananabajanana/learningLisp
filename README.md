@@ -19,6 +19,7 @@ If this concept interests you, I highly recommend giving this language a go, eve
 Also, since almost no one knows how to program in this alien language, it gives even the most imbecile programmer who just gave it a go once great bragging rights, which is always good.
 
 _"Lisp [..] the most intelligent way to misuse a computer."_ ~ Edsger Dijkstra
+_"An interesting language where you can write interesting programs that do interesting things."_ ~ Uncredited
 
 Programs List
 =============
